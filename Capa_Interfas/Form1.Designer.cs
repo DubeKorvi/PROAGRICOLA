@@ -53,7 +53,7 @@
             dgvResumen.AllowUserToAddRows = false;
             dgvResumen.BackgroundColor = SystemColors.ButtonHighlight;
             dgvResumen.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dgvResumen.Location = new Point(89, 112);
+            dgvResumen.Location = new Point(64, 112);
             dgvResumen.Name = "dgvResumen";
             dgvResumen.RowHeadersWidth = 62;
             dgvResumen.Size = new Size(1201, 317);
